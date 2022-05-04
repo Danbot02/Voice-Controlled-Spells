@@ -1,2 +1,7 @@
-Library/
-Logs/
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets.AssetStoreTools*
